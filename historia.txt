@@ -7,10 +7,9 @@ tiene una novia hace 7 meses
 
 master 1
 
-<<<<<<< HEAD
 master 2
-=======
+
 EXPERIMENTO 2
 
 master 1
->>>>>>> 9df55ba (exp  2)
+
